@@ -10,16 +10,38 @@
 
 - [Awesome Homebrew Taps](#awesome-homebrew-taps)
 	- [Contents](#contents)
-	- [Brew Taps](#brew-taps)
-	- [Cask Taps](#cask-taps)
-	- [External Commands](#external-commands)
+	- [Official Taps](#official-taps)
+		- [Brew Cask](#brew-cask)
+		- [External Commands](#external-commands)
+	- [Third Party Taps](#third-party-taps)
+		- [Brew Taps](#brew-taps)
+		- [Cask Taps](#cask-taps)
+		- [External Commands](#external-commands-1)
 	- [Contribute](#contribute)
 	- [Credits](#credits)
 	- [License](#license)
 
 <!-- /TOC -->
 
-## Brew Taps
+## Official Taps
+
+* [homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux)
+* [homebrew/core](https://github.com/Homebrew/homebrew-core) - Default formulae for the missing package manager for macOS
+
+### Brew Cask
+
+* [homebrew/Cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries
+* [homebrew/CaskFonts](https://github.com/Homebrew/homebrew-cask-fonts) - Casks of Ｆ🅾𝓝𝐓𝚂
+* [homebrew/cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - Casks of Drivers
+
+### External Commands
+
+* [homebrew/services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' `launchctl` daemon manager
+* [homebrew/bundle](https://github.com/Homebrew/homebrew-bundle) - Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+
+## Third Party Taps
+
+### Brew Taps
 
 * [sambadevi/powerlevel9k](https://github.com/sambadevi/powerlevel9k) - Install powerlevel9k zsh theme with homebrew.
 * [paulgalow/tap](https://github.com/paulgalow/homebrew-tap) - A tap that provides a formuala to download album artwork via Apple Music.
@@ -29,11 +51,11 @@
 * [sashkab/python](https://github.com/sashkab/homebrew-python) - Homebrew tap for Python versions.
 * [acebook/homebrew-fb](https://github.com/facebook/homebrew-fb) - OS X Homebrew formulas to install Facebook open source software.
 
-## Cask Taps
+### Cask Taps
 
 * [sticklerm3/pourhouse](https://github.com/sticklerm3/homebrew-pourhouse) - Casks for freeware apps made by Howard Oakley at [EclecticLight.co](https://EclecticLight.co)
 
-## External Commands
+### External Commands
 
 * [DomT4/autoupdate](https://github.com/DomT4/homebrew-autoupdate) - An easy, convenient way to automatically update Homebrew.
 
