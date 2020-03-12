@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.6
 before_script:
-	- yes | gem update --system --force
+  - yes | gem update --system --force
   - gem install bundler
   - bundle install
 script:
