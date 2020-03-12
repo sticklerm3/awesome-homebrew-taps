@@ -9,4 +9,3 @@ gem "awesome_bot"
 gem "danger", "~> 6.3"
 
 gem "danger-toc", "~> 0.2.0"
-gem "danger-commit_lint"
