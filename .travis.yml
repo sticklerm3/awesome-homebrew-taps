@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install bundler
+	- bundle install
+script:
+	- wl=https://awesome.re
+  - awesome_bot README.md -w=$wl
+	- bundle exec danger
