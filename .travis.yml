@@ -1,10 +1,11 @@
 language: ruby
 rvm:
-  - 2.2
+  - 2.6
 before_script:
+  - yes | gem update --system --force
   - gem install bundler
-	- bundle install
+  - bundle install
 script:
-	- wl=https://awesome.re
+  - wl=https://awesome.re
   - awesome_bot README.md -w=$wl
-	- bundle exec danger
+  - bundle exec danger

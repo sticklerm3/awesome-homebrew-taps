@@ -2,9 +2,6 @@ if github.pr_body.length < 5
   fail "Please provide a summary in the Pull Request description"
 end
 
-# Look for prose issues
-prose.lint_files markdown_files
-
 # Check links
 require 'json'
 results = File.read 'ab-results-README.md-markdown-table.json'
