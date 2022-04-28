@@ -43,7 +43,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday-http-cache (2.0.0)
       faraday (~> 0.8)
-    git (1.6.0)
+    git (1.11.0)
       rchardet (~> 1.8)
     i18n (1.8.2)
       concurrent-ruby (~> 1.0)
