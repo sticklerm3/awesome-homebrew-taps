@@ -31,6 +31,7 @@
 
 ## Cask Taps
 
+* [DaKiLloTh/mead](https://github.com/DaKiLloTh/homebrew-mead) - Cask for mead, a native Homebrew GUI for macOS.
 * [sticklerm3/pourhouse](https://github.com/sticklerm3/homebrew-pourhouse) - Casks for freeware apps made by Howard Oakley at [EclecticLight.co](https://EclecticLight.co)
 
 ## External Commands
