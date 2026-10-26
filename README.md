@@ -60,3 +60,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
 [cookiecutter]: https://github.com/cookiecutter/cookiecutter
 [cookiecutter-awesome]: https://github.com/moodule/cookiecutter-git
+- [fsakbas/homebrew-tap](https://github.com/fsakbas/homebrew-tap) - Official Homebrew Cask tap for [iPhone Data Manager](https://iphonedatamanager.com) (`brew install --cask fsakbas/tap/iphone-data-manager`), a native macOS app to browse iPhone backups, export WhatsApp chats to PDF/HTML, and redirect iOS backups to external SSDs.
