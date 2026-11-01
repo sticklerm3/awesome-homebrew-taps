@@ -21,13 +21,14 @@
 
 ## Brew Taps
 
-* [sambadevi/powerlevel9k](https://github.com/sambadevi/powerlevel9k) - Install powerlevel9k zsh theme with homebrew.
-* [paulgalow/tap](https://github.com/paulgalow/homebrew-tap) - A tap that provides a formuala to download album artwork via Apple Music.
+* [acebook/homebrew-fb](https://github.com/facebook/homebrew-fb) - OS X Homebrew formulas to install Facebook open source software.
 * [denji/nginx](https://github.com/denji/homebrew-nginx) - Community NGINX tap for custom modules.
 * [mongodb/brew](https://github.com/mongodb/homebrew-brew) - The Official MongoDB Software Homebrew Tap.
-* [varenc/ffmpeg](https://github.com/varenc/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
+* [paulgalow/tap](https://github.com/paulgalow/homebrew-tap) - A tap that provides a formuala to download album artwork via Apple Music.
+* [sambadevi/powerlevel9k](https://github.com/sambadevi/powerlevel9k) - Install powerlevel9k zsh theme with homebrew.
 * [sashkab/python](https://github.com/sashkab/homebrew-python) - Homebrew tap for Python versions.
-* [acebook/homebrew-fb](https://github.com/facebook/homebrew-fb) - OS X Homebrew formulas to install Facebook open source software.
+* [seifip/kilobat](https://github.com/seifip/homebrew-kilobat) - Official tap providing the GPL-3.0-only Kilobat network diagnostics CLI for macOS 14+.
+* [varenc/ffmpeg](https://github.com/varenc/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
 
 ## Cask Taps
 
